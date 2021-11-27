@@ -19,7 +19,7 @@
   
 <div>
 <a href = "mailto:felipebr998@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/felipe-barbosa-29245820b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
    ![Snake animation](https://github.com/FelipeRodrigues05/FelipeRodrigues05/blob/output/github-contribution-grid-snake.svg)
 
