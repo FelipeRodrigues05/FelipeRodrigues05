@@ -12,13 +12,13 @@
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **Unit & Feature Testing, Spring Boot & Spring Security**
+ 🌱 I’m currently learning **Unit & Feature Testing, Spring Boot & Spring Security...**
 
  </div>
  
 <div align="center"> 
   <a href="mailto:feliperodrigues-dev@outlook.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4" />
   </a>
 <!--   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -33,8 +33,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript, typescript, mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=phpstorm,idea,vscode,git,github,docker,linux,bun" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=php,java,javascript,typescript,html,css,laravel,spring,react,mysql" />
+    <br>
 </div>
 
 <br/>
