@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=FelipeRodrigues05.FelipeRodrigues05" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Felipe+Rodrigues!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=1000&color=6221F7&random=false&width=500&height=70&size=35&center=true&lines=Hi+There!+%F0%9F%91%8B;I'm+Felipe+Rodrigues" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">A passionate software developer from São Paulo, Brazil </h3>
