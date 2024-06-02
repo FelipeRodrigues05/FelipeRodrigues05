@@ -35,7 +35,9 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=phpstorm,idea,vscode,git,github,docker,linux,bun" />
     <br>
-    <img src="https://skillicons.dev/icons?i=php,java,javascript,typescript,html,css,laravel,spring,react,mysql" />
+    <img src="https://skillicons.dev/icons?i=php,java,javascript,typescript,html,css,mysql" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=laravel,spring,react,nuxt" />
     <br>
 </div>
 
