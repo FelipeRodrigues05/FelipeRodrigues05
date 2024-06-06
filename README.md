@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **a workout tracker**
  
  🌱 I’m currently learning **Unit & Feature Testing, Spring Boot & Spring Security...**
 
