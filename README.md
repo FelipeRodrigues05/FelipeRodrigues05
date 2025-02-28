@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **an image hub**
+ 🔭 I’m currently working on a **workout tracking app**
  
- 🌱 I’m currently learning **Unit & Feature Testing, Spring Boot & Spring Security...**
+ 🌱 I’m currently learning **ReactJS and UX/UI**
 
  </div>
  
