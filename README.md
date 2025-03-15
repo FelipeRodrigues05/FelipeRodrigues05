@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on a **workout tracking app**
+ 🔭 I’m currently working on **none**
  
- 🌱 I’m currently learning **ReactJS and UX/UI**
+ 🌱 I’m currently learning **Ruby and Ruby on Rails**
 
  </div>
  
@@ -35,22 +35,13 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=phpstorm,idea,vscode,git,github,docker,linux,bun" />
     <br>
-    <img src="https://skillicons.dev/icons?i=php,java,javascript,typescript,html,css,mysql" />
+    <img src="https://skillicons.dev/icons?i=php,java,javascript,typescript,html,css,mysql,ruby" />
     <br>
-    <img src="https://skillicons.dev/icons?i=laravel,spring,react,nuxt" />
+    <img src="https://skillicons.dev/icons?i=laravel,spring,react,nuxt,rails" />
     <br>
 </div>
 
 <br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/FelipeRodrigues05/FelipeRodrigues05/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 <hr/>
 
