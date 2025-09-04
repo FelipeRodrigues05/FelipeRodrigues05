@@ -15,7 +15,7 @@
 ## 🛠️ Tech Stack & Tools
  
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=phpstorm,idea,vscode,git,github,docker,linux,bun" />
+    <img src="https://skillicons.dev/icons?i=phpstorm,idea,vscode,git,github,docker,linux,bun,arch" />
     <br>
     <img src="https://skillicons.dev/icons?i=php,java,javascript,typescript,mysql,grafana,rabbitmq" />
     <br>
