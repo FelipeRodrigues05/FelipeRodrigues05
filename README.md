@@ -2,8 +2,8 @@
 
 <p align="center">
   💻 Passionate Software Developer from <strong>São Paulo, Brazil</strong> 🇧🇷 <br>
-  🌱 Currently learning <strong>Filament PHP & PostgreSQL</strong> <br>
-  🚧 Actively building a full-stack <strong>Finance App</strong> as a personal project
+  🌱 Currently learning <strong>Spring Boot & Spring Security</strong> <br>
+  🚧 Actively building a full-stack <strong>ERP</strong> as a personal project
 </p>
 
 <p align="center">
