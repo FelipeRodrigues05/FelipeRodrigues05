@@ -2,8 +2,8 @@
 
 <p align="center">
   💻 Passionate Software Developer from <strong>São Paulo, Brazil</strong> 🇧🇷 <br>
-  🌱 Currently learning <strong>Flutter & Daryt</strong> <br>
-  🚧 Actively building a full-stack <strong>ERP</strong> as a personal project
+  🌱 Currently learning <strong>Flutter & Dart</strong> <br>
+  🚧 Actively building a full-stack <strong>Spotify Redesign</strong> as a personal project
 </p>
 
 <p align="center">
