@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Passionate Software Developer from <strong>São Paulo, Brazil</strong> 🇧🇷 <br>
-  🌱 Currently learning <strong>Spring Boot & Spring Security</strong> <br>
+  🌱 Currently learning <strong>Flutter & Daryt</strong> <br>
   🚧 Actively building a full-stack <strong>ERP</strong> as a personal project
 </p>
 
@@ -17,9 +17,9 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=phpstorm,idea,vscode,git,github,docker,linux,bun,arch" />
     <br>
-    <img src="https://skillicons.dev/icons?i=php,java,javascript,typescript,mysql,grafana,rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=php,java,javascript,typescript,mysql,grafana,rabbitmq,dart" />
     <br>
-    <img src="https://skillicons.dev/icons?i=laravel,spring,angular" />
+    <img src="https://skillicons.dev/icons?i=laravel,spring,angular,flutter" />
     <br>
 </div>
 
