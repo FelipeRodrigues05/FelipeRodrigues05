@@ -1,42 +1,79 @@
-<h1 align="center">👋 Hi there, I'm Felipe Rodrigues</h1>
 
-<p align="center">
-  💻 Passionate Software Developer from <strong>São Paulo, Brazil</strong> 🇧🇷 <br>
-  🌱 Currently learning <strong>Flutter & Dart</strong> <br>
-  🚧 Actively building a full-stack <strong>Spotify Redesign</strong> as a personal project
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=7F3DFF&text=Felipe%20Rodrigues&section=header&textBg=false&desc=Desenvolvedor%20Jr&descAlignY=63&fontColor=FFF&reversal=false&animation=twinkling"/>
+
+# 🎯 Sobre mim
+
+Sou Desenvolvedor Full Stack Júnior focado em back-end, microsserviços, APIs REST e arquitetura limpa. Já trabalhei em ambientes de produção, projetos bancários, pipelines, infraestrutura e integrações complexas.
+
+Gosto de construir sistemas robustos e escaláveis — com organização, qualidade e propósito.
+
+# 🚀 Stack Completo
+
+## 🖥️ Back-end
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,java,spring,laravel,kafka" />
 </p>
 
-<p align="center">
-  <a href="mailto:feliperodrigues-dev@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+## 🎨 Front-end
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular,flutter,ts,html,css" />
 </p>
 
----
+## ☁️ Infra / Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,aws" />
+</p>
 
-## 🛠️ Tech Stack & Tools
- 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=phpstorm,idea,vscode,git,github,docker,linux,bun,arch" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=php,java,javascript,typescript,mysql,grafana,rabbitmq,dart" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=laravel,spring,angular,flutter" />
-    <br>
+
+## 🗄️ **Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+</p>
+
+
+## 🧪 **Ferramentas & Qualidade**
+<p>
+  <img src="https://skillicons.dev/icons?i=git" />
+</p>
+
+--- 
+
+# ⚡ Power Skills
+
+- Arquitetura limpa aplicada a sistemas reais
+- Resolução prática de problemas
+- Experiência em integrações de alta confiabilidade
+- Foco total em escalabilidade e manutenção
+- Comunicação clara e colaboração técnica
+
+# 🧩 Projetos em Destaque
+🔹 🔐 Sistema Bancário (API + Microsserviços)
+
+> Autenticação, transferências, relatórios, serviços assíncronos
+> Stack: Java, Spring Boot, Docker, PostgreSQL, Apache Kafka, Grafana, Prometheus
+
+
+🔹 📱 App Mobile Flutter + API
+
+> UI moderna, persistência e consumo de API externa
+> Stack: Flutter, REST, MongoDB
+
+--- 
+
+# 📊 GitHub Stats
+<div align="center"> 
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=FelipeRodrigues05&show_icons=true&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelipeRodrigues05&theme=monokai" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
+# 📫 Contato
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRodrigues05&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeRodrigues05&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
 <div align="center">
-  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bowrn2vtzpf1eulcvmn4a298r&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
+📧 feliperodrigues-dev@outlook.com
+📱 11 967898414
+💻 github.com/FelipeRodrigues05
 </div>
 
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=7F3DFF&section=footer&textBg=false&descAlignY=63&fontColor=FFF&reversal=false&animation=twinkling" />
