@@ -45,6 +45,7 @@ jobs:
           # REPOSITORY LICENSES
           # ---------------------------------------------------------
           plugin_licenses: yes
+          plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
           plugin_licenses_ratio: yes
 
           # ---------------------------------------------------------
