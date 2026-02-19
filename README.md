@@ -6,7 +6,7 @@ Sou Desenvolvedor Full Stack com foco em back-end, APIs REST, microserviços, ar
 Experiência em projetos bancários, integrações complexas, mensageria, contêineres e aplicações escaláveis.
 
 # 📊 GitHub Metrics
-<p align="center"> <img src="./github-metrics.svg" width="100%" alt="GitHub Metrics"/> </p>
+<p align="center"> <img src="./github-metrics.svg" width="80%" alt="GitHub Metrics"/> </p>
 
 # ⚙️ Tecnologias
 
