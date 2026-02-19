@@ -21,7 +21,7 @@ Experiência em projetos bancários, integrações complexas, mensageria, contê
 
 
 # 📊 GitHub Metrics
-<p align="center"> <img src="./github-metrics.svg" width="80%" alt="GitHub Metrics"/> </p>
+<p align="center"> <img src="./github-metrics.svg" width="100%" alt="GitHub Metrics"/> </p>
 
 # 📫 Contato
 
