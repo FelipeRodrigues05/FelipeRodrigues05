@@ -18,10 +18,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
 
-          # ---------------------------------------------------------
-          # TEMA E BASE
-          # ---------------------------------------------------------
-          template: repository
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
 
