@@ -36,40 +36,24 @@ jobs:
           plugin_languages_limit: 12
           plugin_languages_categories: programming
 
-          # ---------------------------------------------------------
-          # LINES OF CODE CHANGED
-          # ---------------------------------------------------------
-          plugin_lines: yes
-
-          # ---------------------------------------------------------
-          # REPOSITORY LICENSES
-          # ---------------------------------------------------------
-          plugin_licenses: yes
-          plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
-          plugin_licenses_ratio: yes
-
+          plugin_traffic: true
+          
           # ---------------------------------------------------------
           # FEATURED REPOSITORIES
           # ---------------------------------------------------------
           plugin_repositories: yes
           plugin_repositories_affiliations: owner, collaborator
-          plugin_repositories_featured: FelipeRodrigues05/FelipeRodrigues05
-
-          # ---------------------------------------------------------
-          # COMMIT CALENDAR
-          # ---------------------------------------------------------
-          plugin_calendar: yes
-          plugin_calendar_limit: 1
-
+          plugin_repositories_featured: FelipeRodrigues05/febank-backend, FelipeRodrigues05/personal-finance-app
+          plugin_repositories_pinned: 5
+          plugin_repositories_starred: 2
+          
           # ---------------------------------------------------------
           # RECENT ACTIVITY
           # ---------------------------------------------------------
           plugin_activity: yes
-          plugin_activity_limit: 10
-          plugin_activity_days: 14
-          plugin_activity_visibility: public
+          plugin_activity_limit: 5
+          plugin_activity_days: 15
+          plugin_activity_visibility: all
 
-          # ---------------------------------------------------------
-          # REPOSITORY TRAFFIC
-          # ---------------------------------------------------------
-          plugin_traffic: yes
+          plugin_isocalendar: true
+          plugin_isocalendar_duration: half-year
