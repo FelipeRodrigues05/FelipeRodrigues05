@@ -5,9 +5,6 @@
 Sou Desenvolvedor Full Stack com foco em back-end, APIs REST, microserviços, arquitetura limpa e cloud.
 Experiência em projetos bancários, integrações complexas, mensageria, contêineres e aplicações escaláveis.
 
-# 📊 GitHub Metrics
-<p align="center"> <img src="./github-metrics.svg" width="80%" alt="GitHub Metrics"/> </p>
-
 # ⚙️ Tecnologias
 
 ### Back-end
@@ -22,16 +19,9 @@ Experiência em projetos bancários, integrações complexas, mensageria, contê
 ### Bancos de Dados
 <p><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=light"></p>
 
-# 📌 Projetos em Destaque
 
-## 🔐 Sistema Bancário — API + Microsserviços
-
-> Autenticação, transferências, PDF service, mensageria, integrações.
-
-
-## 📱 Aplicativo Mobile Flutter
-
-> Consumo de API + UI moderna + persistência.
+# 📊 GitHub Metrics
+<p align="center"> <img src="./github-metrics.svg" width="80%" alt="GitHub Metrics"/> </p>
 
 # 📫 Contato
 
