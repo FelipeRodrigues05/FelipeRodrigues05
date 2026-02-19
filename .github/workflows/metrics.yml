@@ -21,9 +21,11 @@ jobs:
           # ---------------------------------------------------------
           # TEMA E BASE
           # ---------------------------------------------------------
-          template: classic
+          template: repository
           base: header, metadata
           config_timezone: America/Sao_Paulo
+
+          plugin_introduction: yes
 
           # ---------------------------------------------------------
           # LANGUAGE ACTIVITY (detalhado)
